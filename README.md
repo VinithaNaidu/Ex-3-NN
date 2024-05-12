@@ -1,5 +1,5 @@
-<H3>ENTER YOUR NAME: D. Vinitha </H3>
-<H3>ENTER YOUR REGISTER NO. 212222230175</H3>
+<H3 NAME: D. Vinitha </H3>
+<H3> REGISTER NO. 212222230175</H3>
 <H3>DATE: </H3>
 <H3>EXPERIMENT NO.3</H3>
 <H2 aligh = center> Implementation of MLP for a non-linearly separable data</H2>
